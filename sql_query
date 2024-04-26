@@ -1,0 +1,13 @@
+//To test the application use the following database commands
+
+
+
+//product table
+
+INSERT INTO Product (name, price, category_id) VALUES
+('Laptop', 1000.00, 1),
+('Smartphone', 500.00, 1),
+('T-Shirt', 20.00, 2),
+('Jeans', 50.00, 2),
+('Java Programming Book', 30.00, 3),
+('Python Programming Book', 35.00, 3);
