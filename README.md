@@ -15,7 +15,7 @@ This is a Spring Boot application that provides CRUD (Create, Read, Update, Dele
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/sakshideo29/spring-boot-crud.git
+git clone https://github.com/sakshideo29/REST_API_Springboot.git
 
 2. Navigate to the project directory:
 
@@ -42,12 +42,9 @@ git clone https://github.com/sakshideo29/spring-boot-crud.git
 - Database configuration: You can configure your preferred RDBMS connection details in `application.properties`.
 - Spring Boot application properties can be customized in `application.properties`.
 
-spring.datasource.url=jdbc:mysql://localhost:3306/db_name
-spring.datasource.username=db_username
-spring.datasource.password=db_password
-
-
-
+- spring.datasource.url=jdbc:mysql://localhost:3306/db_name
+- spring.datasource.username=db_username
+- spring.datasource.password=db_password
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
